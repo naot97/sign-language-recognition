@@ -1,2 +1,3 @@
-# sign_language_recognition
-Application for recogn sign language by hand for deaf people
+# Sign Language Recognition
+
+Nhận dạng ngôn ngữ ký hiệu cho người khiếm thính
