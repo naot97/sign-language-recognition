@@ -55,7 +55,7 @@ camera.set(10,200)
 cv2.namedWindow('trackbar')
 cv2.createTrackbar('trh1', 'trackbar', threshold, 100, printThreshold)
 model_thresh = load_model('model_bin.h5')
-model_rgb = load_model('model_rgb_old.h5')
+model_rgb = load_model('model_rgb_new.h5')
 
 while camera.isOpened():
 	ret, frame = camera.read()
