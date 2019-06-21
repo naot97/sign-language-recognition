@@ -1,6 +1,6 @@
 ﻿# Sign Language Recognition
 
-Realtime application for recogn sign language by hand for deaf people. Run Hanđectection.py to run program.
+Realtime application for recogn sign language by hand for deaf people
 
 ## Getting started
 ### Installing
