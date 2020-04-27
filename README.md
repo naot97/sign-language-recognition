@@ -1,6 +1,6 @@
 ﻿# Sign Language Recognition
 
-Realtime application for recogn sign language by hand for deaf people
+Real Time application to detect sign of hand and translate to letters. Helping deaf people can commute with others.
 
 ## Getting started
 ### Installing
