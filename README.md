@@ -6,6 +6,6 @@ Real Time application to detect sign of hand and translate to letters. Helping d
 ### Installing
 Install python version >= 3.6
 ### Running 
-* Type ```python final.py ``` in folder source
+* Run ```final.py ``` in folder source
 * Press B to confirm background
-* Give hand and present signs in square frame in webcame and system will show the character just presented   
+* Give hand and perform your hand in square frame via webcame and then system will show the character you are performing. 
