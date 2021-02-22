@@ -1,7 +1,7 @@
 ﻿# Sign Language Recognition
 
 * Real Time application to detect sign of hand and translate to letters. Try to help deaf people can commute with other people.
-* Includes pre-trained model by Yolov4, and program predicts sign letter by getting video via webcame.
+* Includes pre-trained model by Keras, and program predicts sign letter by getting video via webcame.
 * Built with Python, Keras+Tensorflow and OpenCV (for video capturing and manipulation).
 * Implement the system consists of steps: prepare data, train model, pre-process video, running and experiment.
 
