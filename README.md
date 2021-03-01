@@ -57,7 +57,7 @@ Because input of the model is an image, so the program needs an image to predict
 ![alt text](https://github.com/naot97/sign_language_recognition/blob/master/result.png?raw=true "Result")
 
 #### Experiment
-The performance of the model on reallife performs (1000 times with each class). These performs are in perfect light conditions.
+The performance of the model on 1000 testing images. These images are in perfect light conditions.
 
 ![alt text](https://github.com/naot97/sign_language_recognition/blob/master/performance.PNG?raw=true "Experiment")
 
